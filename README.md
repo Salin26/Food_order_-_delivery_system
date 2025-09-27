@@ -20,13 +20,17 @@ Concepts Used: OOP (Classes, Inheritance, Polymorphism, Constructors)
 
 File Handling: User data stored in text files
 
-Project Structure
+Project Structure:
+
 Food-Ordering-System/
+
 │── main.cpp          # Main source code
 │── users.txt         # Stores user credentials
 │── README.md         # Project documentation
 
+
 Contributors
 
 @joya3073
+
 @mubiny87
